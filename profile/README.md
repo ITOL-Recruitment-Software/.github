@@ -59,20 +59,6 @@ We aim to maintain consistent development practices across our repositories.
 * Prevent individual feature failures from unnecessarily affecting unrelated application functionality.
 * Document configuration changes, database migrations, and deployment requirements.
 
-## GitHub Workflow
-
-We encourage a structured workflow for all development projects.
-
-1. Create or identify a GitHub Issue describing the problem, feature, or improvement.
-2. Create a dedicated feature branch linked to the issue.
-3. Implement the changes in focused, meaningful commits.
-4. Test the changes and review the affected functionality.
-5. Open a Pull Request describing the implementation and testing performed.
-6. Review and approve the changes before merging into the main branch.
-7. Update documentation and release notes where required.
-
-Use descriptive issue titles, clear Pull Request descriptions, and meaningful commit messages to keep development work traceable.
-
 ## Technologies
 
 Our technology choices depend on the requirements of each project and may include:
