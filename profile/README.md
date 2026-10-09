@@ -88,34 +88,6 @@ Our technology choices depend on the requirements of each project and may includ
 
 Please check each repository for its confirmed technology stack and specific requirements.
 
-## Contributing
-
-Contributions should follow the development process established for the relevant project.
-
-Before submitting changes:
-
-* Check existing Issues and Pull Requests for related work.
-* Discuss significant changes with the relevant project owner.
-* Follow the repository's coding conventions.
-* Test your changes before requesting a review.
-* Update documentation when functionality or configuration changes.
-* Never commit passwords, API keys, access tokens, or confidential recruitment data.
-
-Project-specific contribution guidelines and approval requirements take precedence over these general recommendations.
-
-## Security and Confidentiality
-
-Some projects may support internal business operations and process confidential information.
-
-Please do not publish sensitive information, production credentials, personal data, or internal configuration details in public repositories.
-
-Report suspected security vulnerabilities through the organisation's approved internal reporting process rather than publishing exploitable details in a public issue.
-
-## Organisation Links
-
-* **GitHub Organisation:** https://github.com/ITOL-Recruitment-Software
-* **ITOL Recruit Website:** https://www.itolrecruit.com/
-
 ## Our Mission
 
 To develop dependable, secure, and maintainable software that improves recruitment operations, supports our teams, and enables continuous business improvement.
